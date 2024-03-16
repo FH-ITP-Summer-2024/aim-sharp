@@ -4,8 +4,9 @@ FH ITP best project ever
 
 ## Setup
 
-Make sure you include the Branch naming conventions pre-commit hook. Run the following command in project root directory:
+!!! This has to be done only once !!!
 
-```
-git config core.hooksPath .githooks
-```
+Make sure you include the Branch naming conventions pre-commit hook. Run the following commands in project root directory:
+
+1. `git config core.hooksPath .githooks`
+2. `chmod ug+x .githooks/*`
