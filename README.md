@@ -6,7 +6,7 @@
 |------------------|--------------------|
 | Mentor           | Rea Sutter         |
 | Project Manager  | Ruslan Kotliarenko |
-| Developers       | Baldauf Ortwin, Bokowy Lukas, Fuchs Valentin |
+| Developers       | Lukas Bokowy, Ortwin Baldauf, Valentin Fuchs |
 
 ## Table of Contents
 1. [Overview](#overview)
